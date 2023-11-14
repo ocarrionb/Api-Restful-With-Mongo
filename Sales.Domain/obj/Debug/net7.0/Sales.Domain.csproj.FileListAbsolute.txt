@@ -1,0 +1,11 @@
+C:\Proyectos\Sales\Sales.Domain\bin\Debug\net7.0\Sales.Domain.deps.json
+C:\Proyectos\Sales\Sales.Domain\bin\Debug\net7.0\Sales.Domain.dll
+C:\Proyectos\Sales\Sales.Domain\bin\Debug\net7.0\Sales.Domain.pdb
+C:\Proyectos\Sales\Sales.Domain\obj\Debug\net7.0\Sales.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\Sales\Sales.Domain\obj\Debug\net7.0\Sales.Domain.AssemblyInfoInputs.cache
+C:\Proyectos\Sales\Sales.Domain\obj\Debug\net7.0\Sales.Domain.AssemblyInfo.cs
+C:\Proyectos\Sales\Sales.Domain\obj\Debug\net7.0\Sales.Domain.csproj.CoreCompileInputs.cache
+C:\Proyectos\Sales\Sales.Domain\obj\Debug\net7.0\Sales.Domain.dll
+C:\Proyectos\Sales\Sales.Domain\obj\Debug\net7.0\refint\Sales.Domain.dll
+C:\Proyectos\Sales\Sales.Domain\obj\Debug\net7.0\Sales.Domain.pdb
+C:\Proyectos\Sales\Sales.Domain\obj\Debug\net7.0\ref\Sales.Domain.dll

@@ -1,0 +1,11 @@
+C:\Proyectos\Sales\Sales.Services\bin\Debug\net7.0\Sales.Services.deps.json
+C:\Proyectos\Sales\Sales.Services\bin\Debug\net7.0\Sales.Services.dll
+C:\Proyectos\Sales\Sales.Services\bin\Debug\net7.0\Sales.Services.pdb
+C:\Proyectos\Sales\Sales.Services\obj\Debug\net7.0\Sales.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\Sales\Sales.Services\obj\Debug\net7.0\Sales.Services.AssemblyInfoInputs.cache
+C:\Proyectos\Sales\Sales.Services\obj\Debug\net7.0\Sales.Services.AssemblyInfo.cs
+C:\Proyectos\Sales\Sales.Services\obj\Debug\net7.0\Sales.Services.csproj.CoreCompileInputs.cache
+C:\Proyectos\Sales\Sales.Services\obj\Debug\net7.0\Sales.Services.dll
+C:\Proyectos\Sales\Sales.Services\obj\Debug\net7.0\refint\Sales.Services.dll
+C:\Proyectos\Sales\Sales.Services\obj\Debug\net7.0\Sales.Services.pdb
+C:\Proyectos\Sales\Sales.Services\obj\Debug\net7.0\ref\Sales.Services.dll
