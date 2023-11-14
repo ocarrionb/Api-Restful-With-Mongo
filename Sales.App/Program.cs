@@ -1,4 +1,9 @@
+using Sales.Domain.Options;
+
 var builder = WebApplication.CreateBuilder(args);
+
+//Option Pattern (DBContext)
+builder.Services.Configure<DBContextOptions>(builder.Configuration.GetSection(key: "ConnectionStrings"));
 
 // Add services to the container.
 
