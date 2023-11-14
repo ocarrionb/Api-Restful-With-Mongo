@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Proyectos\\Sales\\Sales.Domain\\Sales.Domain.csproj": {}
+    "C:\\Proyectos\\Api-Restful-With-Mongo\\Sales.Domain\\Sales.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Proyectos\\Sales\\Sales.Domain\\Sales.Domain.csproj": {
+    "C:\\Proyectos\\Api-Restful-With-Mongo\\Sales.Domain\\Sales.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Proyectos\\Sales\\Sales.Domain\\Sales.Domain.csproj",
+        "projectUniqueName": "C:\\Proyectos\\Api-Restful-With-Mongo\\Sales.Domain\\Sales.Domain.csproj",
         "projectName": "Sales.Domain",
-        "projectPath": "C:\\Proyectos\\Sales\\Sales.Domain\\Sales.Domain.csproj",
+        "projectPath": "C:\\Proyectos\\Api-Restful-With-Mongo\\Sales.Domain\\Sales.Domain.csproj",
         "packagesPath": "C:\\Users\\octca\\.nuget\\packages\\",
-        "outputPath": "C:\\Proyectos\\Sales\\Sales.Domain\\obj\\",
+        "outputPath": "C:\\Proyectos\\Api-Restful-With-Mongo\\Sales.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\octca\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,6 +39,20 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.22.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

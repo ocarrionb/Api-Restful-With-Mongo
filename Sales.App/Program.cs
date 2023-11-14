@@ -1,9 +1,17 @@
+using Sales.Domain;
 using Sales.Domain.Options;
+using Sales.Repository.Sales;
+using Sales.Services.Sales;
 
 var builder = WebApplication.CreateBuilder(args);
 
-//Option Pattern (DBContext)
-builder.Services.Configure<DBContextOptions>(builder.Configuration.GetSection(key: "ConnectionStrings"));
+//Option Pattern (DBContext)    
+builder.Services.Configure<DBContextOptions>(builder.Configuration.GetSection(key: "MongoConnection"));
+
+builder.Services.AddSingleton<DomainDbContext>();
+
+builder.Services.AddScoped<ISaleService, SaleService>();
+builder.Services.AddScoped<ISaleRepository, SaleRepository>();
 
 // Add services to the container.
 
